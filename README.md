@@ -1,6 +1,6 @@
-## Demo link -> https://nextjs-course-demo.vercel.app/
 ## Author: Maximilian
 ## Course Demo: https://www.youtube.com/watch?v=MFuwkrseXVE
+## App Demo -> https://nextjs-course-demo.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
